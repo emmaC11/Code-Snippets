@@ -2,13 +2,13 @@
 This repo contains code snippets for a variety of languages that can be used. 
 
 ## Python 
-* Code snippets from the HackerRank Algorithms tasks
+Code snippets from the HackerRank Algorithms tasks
 
 ## JavaScript
-* Code snippets from personal projects
+Code snippets from personal projects
 
 ## HTML & CSS
-* Code snippets for generating nav bars, footers, flexbox, icons, etc.
+Code snippets for generating nav bars, footers, flexbox, icons, etc.
 
 ## Run Locally
 1. Locate the [GitHub Repository](https://github.com/emmaC11/Code-Snippets).
