@@ -6,7 +6,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
 
 
-//ternary operator sample 1.1
+// ternary operator sample 1.1
 function club(isMember){
     return(isMember ? "yes" : "no");
 
@@ -14,7 +14,7 @@ function club(isMember){
 const isMember = false
 console.log(club(isMember))
 
-//if else sample 1.1
+// if else sample 1.1
 const isMemberSample = true
 function clubSample(isMemberSample){
     if (isMemberSample == true){
@@ -26,3 +26,33 @@ function clubSample(isMemberSample){
 }
 
 console.log(clubSample(isMemberSample));
+
+
+
+// ternary operator sample 1.2
+
+const age = 18
+
+function verifyAge(age){
+    return age < 18 ? "underage" : "of age"
+}
+
+console.log(verifyAge(age))
+
+// an if else chain
+function example() {
+    return condition1 ? value1
+          : condition2 ? value2
+          : condition3 ? value3
+          : value4;
+  }
+
+
+
+const cake = 9
+
+function numCakes(cake){
+    return cake === 10 ? "there is 10 cakes" : "there is not 10 cakes"
+}
+
+console.log(numCakes(cake))
