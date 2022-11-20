@@ -1,5 +1,6 @@
 # Code-Snippets
-This repo contains code snippets for a variety of languages that can be used. 
+This repo contains code snippets from a variety of languages that can be used. Can reference these during dev work.
+Using HackerRank to complete algorithm challenges & log completed tasks here.
 
 ## Python 
 Code snippets from the [HackerRank Algorithms](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup) tasks
